@@ -12,7 +12,7 @@ This project fetches weather data from OpenWeatherMap API, displays 5-day foreca
 - **Additional Data: Includes humidity and wind speed details.
 - **55-Day Forecast: Displays weather for the upcoming days** 
 
-##Design Highlights
+## Design Highlights
 
 - **Modular Structure:** Separate modules for API connection, data processing, and UI rendering.
 - **Configurable:**  Customize temperature units and forecast intervals..
@@ -32,7 +32,7 @@ This project fetches weather data from OpenWeatherMap API, displays 5-day foreca
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
+   git clone "(https://github.com/Anshu331/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git)
 
    ```
 
@@ -43,7 +43,7 @@ This project fetches weather data from OpenWeatherMap API, displays 5-day foreca
    
    ```
    
-3. **Run the Server
+3. **Run the Server**
 
    ```bash
    npm install http-server -g
