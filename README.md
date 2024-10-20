@@ -5,7 +5,7 @@ This project fetches weather data from OpenWeatherMap API, displays 5-day foreca
 
 ## Features
 
-- **API Integration: Connects to OpenWeatherMap for real-time weather data.
+- **API Integration:** Connects to OpenWeatherMap for real-time weather data.
 - **Weather Summaries:** Provides daily forecasts with max, min, and average temperatures.
 - **Temperature Conversion:** Converts temperature values from Kelvin to Celsius or Fahrenheit based on user preference.
 - **Daily Weather Summary:** Simulates weather updates over several days and calculates average, maximum, minimum temperatures, and dominant weather conditions.
@@ -32,7 +32,7 @@ This project fetches weather data from OpenWeatherMap API, displays 5-day foreca
 
 1. **Clone the Repository**
    ```bash
-   git clone "(https://github.com/Anshu331/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git)
+   git clone "https://github.com/Anshu331/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git"
 
    ```
 
