@@ -6,11 +6,11 @@ This project fetches weather data from OpenWeatherMap API, displays 5-day foreca
 ## Features
 
 - **API Integration: Connects to OpenWeatherMap for real-time weather data.
-- **Weather Summaries: Provides daily forecasts with max, min, and average temperatures.
+- **Weather Summaries:** Provides daily forecasts with max, min, and average temperatures.
 - **Temperature Conversion:** Converts temperature values from Kelvin to Celsius or Fahrenheit based on user preference.
 - **Daily Weather Summary:** Simulates weather updates over several days and calculates average, maximum, minimum temperatures, and dominant weather conditions.
-- **Additional Data: Includes humidity and wind speed details.
-- **55-Day Forecast: Displays weather for the upcoming days** 
+- **Additional Data:** Includes humidity and wind speed details.
+- **5-Day Forecast: Displays weather for the upcoming days** 
 
 ## Design Highlights
 
@@ -50,8 +50,4 @@ This project fetches weather data from OpenWeatherMap API, displays 5-day foreca
    http-server -p 8080**
    ```
 
-## Testing
 
-Add and run tests to ensure functionality.
-```
-created bt: santosh sahoo
